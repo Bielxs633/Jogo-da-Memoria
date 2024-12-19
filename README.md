@@ -1,4 +1,4 @@
-# Jogo-da-Memoria
+# Jogo da Memoria
 
 [Gabriel Soares](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
 
