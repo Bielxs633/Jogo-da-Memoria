@@ -12,17 +12,18 @@ Este projeto é uma versão do clássico **Jogo da Memória**. O objetivo do jog
 ---
 
 ## Funcionalidades
-- **Cartas Aleatórias**: As cartas são embaralhadas e distribuídas de forma aleatória.
-- **Virar Cartas**: O jogador vira duas cartas por vez para tentar encontrar os pares correspondentes.
-- **Contagem de Tempo**: O tempo em que o jogadoir joga é cronometrado.
-- **Fim de Jogo**: O jogo termina quando todos os pares forem encontrados, com uma mensagem de vitória.
+1. **Cartas Aleatórias**: As cartas são embaralhadas e distribuídas de forma aleatória.
+2. **Virar Cartas**: O jogador vira duas cartas por vez para tentar encontrar os pares correspondentes.
+3. **Contagem de Tempo**: O tempo em que o jogadoir joga é cronometrado.
+4. **Fim de Jogo**: O jogo termina quando todos os pares forem encontrados, com uma mensagem de vitória.
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
 
 <img src="images/logo.png" alt="Image" height="250" width="500">
